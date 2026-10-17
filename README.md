@@ -22,7 +22,7 @@
 
 ## 📊 GitHub Stats
 
-![Artem's GitHub stats](https://github-readme-stats.vercel.app/api?username=artem&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+![mewtwo's GitHub stats](https://github-readme-stats.vercel.app/api?username=artem&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
 
 ## 🔥 Streak
 
